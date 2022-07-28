@@ -13,11 +13,12 @@ Create new Tasks about things you do not want to forget
  
  The Task Manager allows you to change all colors the way that you like it to
  
- ![Screenshot (56)](https://user-images.githubusercontent.com/109417475/181600786-00af19c5-fc0f-4879-b953-0c2a8d68d789.png)
+ ![Screenshot (53)](https://user-images.githubusercontent.com/109417475/181600590-936be5e2-ee89-44c1-adac-aac6ba50159d.png)
  
  ## Examples
  Here are a few examples what you can make with customized colors:
- ![Screenshot (53)](https://user-images.githubusercontent.com/109417475/181600590-936be5e2-ee89-44c1-adac-aac6ba50159d.png)
+ 
+![Screenshot (56)](https://user-images.githubusercontent.com/109417475/181600786-00af19c5-fc0f-4879-b953-0c2a8d68d789.png)
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/109417475/181600711-7a54127e-0ea5-45fa-838e-e86e6599384e.png)
 
